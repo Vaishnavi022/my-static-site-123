@@ -7,7 +7,7 @@ phases:
 
   build:
     commands:
-      - echo No build required
+      - echo Build phase (nothing to build)
 
 artifacts:
   files:
